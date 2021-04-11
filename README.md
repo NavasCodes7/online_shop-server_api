@@ -7,6 +7,7 @@ backend language - nodejs (express, bodyparser, mongoose interface etc.)
 database used - mongodb
 
 prerequirement : nodejs, mongodb
+install npm packages express, body-parser and mongoose in same folder
 
 to run:
   -download the code
